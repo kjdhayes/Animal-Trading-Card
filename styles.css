@@ -1,0 +1,38 @@
+
+.total {
+  width: 305px;
+  padding: 10px;
+  border: solid;
+  border-color: lightgray;
+  border-width: thin;
+  box-shadow: 10px 10px 5px lightgray;
+}
+
+#dog {
+  width: 300px;
+  margin-bottom: 5px;
+  border: solid;
+  border-color: lightgray;
+  border-width: thin;
+}
+
+.text {
+  width: 280px;
+  padding: 10px;
+  border: solid;
+  border-color: lightgray;
+  border-width: thin;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.pointsOfInterest {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.info {
+  font-weight: bold;
+}
